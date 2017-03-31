@@ -1,0 +1,19 @@
+{
+    "name": "xiaoyongbrother/redis-message",
+    "description": "redis-message 1.0",
+    "type": "extension",
+    "license": "BSD 3-Clause",
+	"authors": [
+		{
+			"name": "xiaoyong",
+			"email": "466068282@qq.com",
+		}
+	],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"xiaoyongbrother\\message\\": ""
+		}
+	}
+}
