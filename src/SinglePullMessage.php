@@ -70,7 +70,6 @@ class SinglePullMessage
                 echo '发送人:' . $vv->sender . ' 发送时间:' . date('Y-m-d h:i:s', $vv->time) . PHP_EOL;
                 echo '消息内容:' . $vv->message . PHP_EOL;
             }
-            echo "<hr/>";
         }
     }/*}}}*/
 
