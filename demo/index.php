@@ -1,5 +1,5 @@
 <?php
-	require_once __DIR__.'/vendor/autoload.php';
+	require_once __DIR__.'/../vendor/autoload.php';
 	
 	$object = new xiaoyongbrother\message\SinglePullMessage('127.0.0.1');
 	$sender = 'lisi';          //发送者

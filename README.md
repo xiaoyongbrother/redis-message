@@ -27,7 +27,7 @@ composer require xiaoyongbrother/redis-message
 
 ## 使用
 
-### 发送消息
+### 3、一对一发送消息
 ```php
 require_once __DIR__.'/vendor/autoload.php';
 
