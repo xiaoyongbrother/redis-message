@@ -9,7 +9,7 @@
 			"email": "466068282@qq.com"
 		}
 	],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
 	"autoload": {
 		"psr-4": {
