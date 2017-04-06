@@ -1,6 +1,7 @@
 {
     "name": "xiaoyongbrother/redis-message",
-    "description": "redis-message 1.0",
+	"homepage":"https://github.com/xiaoyongbrother/redis-message",
+    "description": "redis-message",
     "type": "extension",
     "license": "BSD 3-Clause",
 	"authors": [
